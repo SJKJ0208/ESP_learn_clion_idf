@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libesp_gdbstub.a CMakeFiles/__idf_esp_gdbstub.dir/src/gdbstub.c.obj CMakeFiles/__idf_esp_gdbstub.dir/src/packet.c.obj CMakeFiles/__idf_esp_gdbstub.dir/xtensa/gdbstub_xtensa.c.obj CMakeFiles/__idf_esp_gdbstub.dir/xtensa/gdbstub-entry.S.obj CMakeFiles/__idf_esp_gdbstub.dir/esp_common/gdbstub_common.c.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libesp_gdbstub.a

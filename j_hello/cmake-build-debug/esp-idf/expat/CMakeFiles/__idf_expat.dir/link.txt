@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libexpat.a CMakeFiles/__idf_expat.dir/expat/expat/lib/xmlparse.c.obj CMakeFiles/__idf_expat.dir/expat/expat/lib/xmlrole.c.obj CMakeFiles/__idf_expat.dir/expat/expat/lib/xmltok.c.obj CMakeFiles/__idf_expat.dir/expat/expat/lib/xmltok_impl.c.obj CMakeFiles/__idf_expat.dir/expat/expat/lib/xmltok_ns.c.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libexpat.a

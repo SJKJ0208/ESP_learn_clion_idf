@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libesp_adc_cal.a CMakeFiles/__idf_esp_adc_cal.dir/esp_adc_cal_esp32.c.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libesp_adc_cal.a

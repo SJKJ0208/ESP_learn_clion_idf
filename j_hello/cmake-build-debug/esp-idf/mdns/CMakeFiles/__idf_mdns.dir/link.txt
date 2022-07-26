@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libmdns.a CMakeFiles/__idf_mdns.dir/mdns.c.obj CMakeFiles/__idf_mdns.dir/mdns_networking_lwip.c.obj CMakeFiles/__idf_mdns.dir/mdns_console.c.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libmdns.a

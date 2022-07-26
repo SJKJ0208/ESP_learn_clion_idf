@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libesp_timer.a CMakeFiles/__idf_esp_timer.dir/src/esp_timer.c.obj CMakeFiles/__idf_esp_timer.dir/src/ets_timer_legacy.c.obj CMakeFiles/__idf_esp_timer.dir/src/system_time.c.obj CMakeFiles/__idf_esp_timer.dir/src/esp_timer_impl_lac.c.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libesp_timer.a

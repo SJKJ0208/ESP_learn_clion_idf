@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libesp_phy.a CMakeFiles/__idf_esp_phy.dir/src/phy_init.c.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libesp_phy.a

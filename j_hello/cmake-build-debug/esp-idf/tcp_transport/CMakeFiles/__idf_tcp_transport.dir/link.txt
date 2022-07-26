@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libtcp_transport.a CMakeFiles/__idf_tcp_transport.dir/transport.c.obj CMakeFiles/__idf_tcp_transport.dir/transport_ssl.c.obj CMakeFiles/__idf_tcp_transport.dir/transport_utils.c.obj CMakeFiles/__idf_tcp_transport.dir/transport_ws.c.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libtcp_transport.a

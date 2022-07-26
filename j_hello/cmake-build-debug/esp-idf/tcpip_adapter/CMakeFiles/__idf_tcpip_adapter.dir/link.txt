@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libtcpip_adapter.a CMakeFiles/__idf_tcpip_adapter.dir/tcpip_adapter_compat.c.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libtcpip_adapter.a

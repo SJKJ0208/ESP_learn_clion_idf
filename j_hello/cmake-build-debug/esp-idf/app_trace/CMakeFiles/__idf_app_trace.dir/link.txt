@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libapp_trace.a CMakeFiles/__idf_app_trace.dir/app_trace.c.obj CMakeFiles/__idf_app_trace.dir/app_trace_util.c.obj CMakeFiles/__idf_app_trace.dir/host_file_io.c.obj CMakeFiles/__idf_app_trace.dir/gcov/gcov_rtio.c.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libapp_trace.a

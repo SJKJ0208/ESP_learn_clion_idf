@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libulp.a CMakeFiles/__idf_ulp.dir/ulp.c.obj CMakeFiles/__idf_ulp.dir/ulp_macro.c.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libulp.a

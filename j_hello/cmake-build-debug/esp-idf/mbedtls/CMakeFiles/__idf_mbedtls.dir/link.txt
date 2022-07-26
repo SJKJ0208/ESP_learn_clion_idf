@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libmbedtls.a CMakeFiles/__idf_mbedtls.dir/esp_crt_bundle/esp_crt_bundle.c.obj CMakeFiles/__idf_mbedtls.dir/__/__/x509_crt_bundle.S.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libmbedtls.a

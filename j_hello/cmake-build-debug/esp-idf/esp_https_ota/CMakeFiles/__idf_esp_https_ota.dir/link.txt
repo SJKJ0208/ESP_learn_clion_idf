@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libesp_https_ota.a CMakeFiles/__idf_esp_https_ota.dir/src/esp_https_ota.c.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libesp_https_ota.a

@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libprotobuf-c.a CMakeFiles/__idf_protobuf-c.dir/protobuf-c/protobuf-c/protobuf-c.c.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libprotobuf-c.a

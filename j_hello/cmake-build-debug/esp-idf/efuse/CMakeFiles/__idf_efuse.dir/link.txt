@@ -1,0 +1,2 @@
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ar.exe qc libefuse.a CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_table.c.obj CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_fields.c.obj CMakeFiles/__idf_efuse.dir/esp32/esp_efuse_utility.c.obj CMakeFiles/__idf_efuse.dir/src/esp_efuse_api.c.obj CMakeFiles/__idf_efuse.dir/src/esp_efuse_fields.c.obj CMakeFiles/__idf_efuse.dir/src/esp_efuse_utility.c.obj CMakeFiles/__idf_efuse.dir/src/esp_efuse_api_key_esp32.c.obj
+C:\PROGRA~1\CODEBL~1\MinGW\bin\ranlib.exe libefuse.a
